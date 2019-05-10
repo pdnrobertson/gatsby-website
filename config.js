@@ -30,7 +30,10 @@ module.exports = {
     contacts: {
       email: 'patrickdn.robertson96@gmail.com',
       twitter: 'https://twitter.com/pdnrobertson',
-      github: 'https://github.com/pdnrobertson'
+      github: 'https://github.com/pdnrobertson',
+      telegram: '#',
+      rss: '#',
+      vkontakte: '#'
     }
   }
 };
