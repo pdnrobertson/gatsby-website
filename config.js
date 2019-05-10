@@ -29,8 +29,8 @@ module.exports = {
       'Current Teach For Australia Associate teaching at a P-12 college in country Victoria, Australia.',
     contacts: {
       email: 'patrickdn.robertson96@gmail.com',
-      twitter: 'https://twitter.com/pdnrobertson',
-      github: 'https://github.com/pdnrobertson',
+      twitter: 'pdnrobertson',
+      github: 'pdnrobertson',
       telegram: '#',
       rss: '#',
       vkontakte: '#'
