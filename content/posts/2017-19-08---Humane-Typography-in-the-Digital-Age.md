@@ -1,79 +1,84 @@
 ---
-title: Humane Typography in the Digital Age
-date: "2017-08-19T22:40:32.169Z"
-template: "post"
+template: post
+title: Reflections on 650 hours of Teaching
+slug: /posts/reflections-on-650-hours-of-teaching
 draft: false
-slug: "/posts/humane-typography-in-the-digital-age/"
-category: "Typography"
+date: 2019-04-08T22:40:32.169Z
+description: My thoughts on my first 10 weeks of teaching.
+category: Reflection
 tags:
-  - "Design"
-  - "Typography"
-  - "Web Development"
-description: "An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts."
+  - Design
+  - Typography
+  - Web Development
 ---
+As I returned from a school camp up in the picturesque and fresh Alpine Region of Victoria, Australia, I found myself reflecting on the term that just passed. As a maths teacher I naturally lean towards numbers. In 10 weeks I have completed over 130 hours of teaching, and pulling on average 50 hours per week into planning/meetings/banging head against the wall. Add to the restless nights constantly thinking about my classes and students, reading up on pedagogy, university assignments, and the next rich task to inspire my students. So all up I put my total commitment to education and teaching to about 650 hours. But numbers only tell one part of the story.
 
-- [The first transition](#the-first-transition)
-- [The digital age](#the-digital-age)
-- [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
-- [Chasing perfection](#chasing-perfection)
+This first post of mine is my foray into the world of education blogging by way of a reflection. I was inspired to do so after reading Craig Barton’s “How I Wish I’d Taught Maths”. Even if my students did not learn much in my 130 hours of teaching (how can I know), I now have 130 hours of insights. This post is a consolidation of my initial perspectives on various aspects of teaching and education, with some aspects heavily inspired by Craig’s book. I will be looking at:
 
-An Essay on Typography by Eric Gill takes the reader back to the year 1930. The year when a conflict between two worlds came to its term. The machines of the industrial world finally took over the handicrafts.
+* The Danger of a Single Story
+* You Can Never Get Enough Support
+* Students Remember What They Attend To
+* The Curse of Knowledge
+* Education Research is Messy
 
-The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
+Here we go.
 
-But the victory of the industrialism didn’t mean that the craftsmen were completely extinct. The two worlds continued to coexist independently. Each recognising the good in the other — the power of industrialism and the humanity of craftsmanship. This was the second transition that would strip typography of a part of its humanity. We have to go 500 years back in time to meet the first one.
+## The Danger of a Single Story
 
-## The first transition
+![](/media/library.jpeg "A person’s life is a library of stories, not just one. Source: Unsplash.")
 
-A similar conflict emerged after the invention of the first printing press in Europe. Johannes Gutenberg invented movable type and used it to produce different compositions. His workshop could print up to 240 impressions per hour. Until then, the books were being copied by hand. All the books were handwritten and decorated with hand drawn ornaments and figures. A process of copying a book was long but each book, even a copy, was a work of art.
+Early on in my teaching I watched a TED talk from Chimamanda Adichie. Whilst not directly related to education, the implications are significant and easily observable. The idea is that we often neatly categorise and create perceptions of people based on one or a limited set of experiences, or a single story. The person sleeping on the street and begging for money who needs to take responsibility for their life, or the student acting up in class has behavioural issues. However there is so much more to people, and kids. Their life cannot and should not be summarised based on a single impression.
 
-The first printed books were, at first, perceived as inferior to the handwritten ones. They were smaller and cheaper to produce. Movable type provided the printers with flexibility that allowed them to print books in languages other than Latin. Gill describes the transition to industrialism as something that people needed and wanted. Something similar happened after the first printed books emerged. People wanted books in a language they understood and they wanted books they could take with them. They were hungry for knowledge and printed books satisfied this hunger.
+I fell into this trap all too often early on, and to my credit a lesser extent as I progressed through the term. This fact really hit me when I was speaking to a student who was not submitting their homework, was always acting up in class and often refused to follow my instructions. The student began to cry. They confessed to me that they spend a lot of their time caring for their sick mother and siblings. They needed to work all the time to earn money to have food on the table. Maths was a low priority, and fair enough.
 
-![42-line-bible.jpg](/media/42-line-bible.jpg)
+First impressions do last, but we cannot let that the be the single story that sums up each of our students. So to help this, I want to get to know more about all of my students. What hobbies do they have? What do they do outside of school? In the few cases where I have done this, my relationships with those students are stronger than ever.
 
-*The 42–Line Bible, printed by Gutenberg.*
+## You Can Never Get Enough Support
 
-But, through this transition, the book lost a large part of its humanity. The machine took over most of the process but craftsmanship was still a part of it. The typefaces were cut manually by the first punch cutters. The paper was made by hand. The illustrations and ornaments were still being hand drawn. These were the remains of the craftsmanship that went almost extinct in the times of Eric Gill.
+![](/media/tfa-friends.jpeg "My fellow Teach for Australia Associates. They are some of my closest friends and have helped me through the tough times. Source: Me.")
 
-## The digital age
+For the sake of context, I’ll briefly describe my teaching journey. I am Associate if the Teach for Australia (TFA) program (equivalent to TeachFirst and Teach for America). For all the pros and cons of this style of teacher attraction and training (that’s for another day), there is one aspect which I believe makes the process worth it: support.
 
-The first transition took away a large part of humanity from written communication. Industrialisation, the second transition described by Eric Gill, took away most of what was left. But it’s the third transition that stripped it naked. Typefaces are faceless these days. They’re just fonts on our computers. Hardly anyone knows their stories. Hardly anyone cares. Flicking through thousands of typefaces and finding the “right one” is a matter of minutes.
+Whilst I don’t have immediate statistics on the issue, it’s certainly well known that lack of teacher support in pre-service and newly minted graduates is a major factor in teacher retention rates. Not only am I well supported by TFA, but the cohort of other Associates and friends has helped immensely. We celebrate our successes, and have solidarity in our struggles. We share ideas, provide advice and vent for catharsis when times are tough. Having a tightly knit community of people in the exact same situation as me has seen me through my toughest moments in the past 10 weeks.
 
-> In the new computer age the proliferation of typefaces and type manipulations represents a new level of visual pollution threatening our culture. Out of thousands of typefaces, all we need are a few basic ones, and trash the rest.
+I am also blessed with a wonderful group of colleagues at my school whose knowledge of the school, community and students helped me out in times of need, and provide the much needed pats-on-the-back with a timely “well done”.
+
+## Students Remember What They Attend To
+
+![](/media/inattentive-student.jpeg "Students remember what they attend to. Source: Demme Learning.")
+
+The following three sections consist of some of my takeaways from Craig Barton’s book that I alluded to above. His findings codify a lot of what I experienced in my time in teaching.
+
+> Students remember what they attend to.
 >
-— Massimo Vignelli
+> — Daniel Willingham
 
-Typography is not about typefaces. It’s not about what looks best, it’s about what feels right. What communicates the message best. Typography, in its essence, is about the message. “Typographical design should perform optically what the speaker creates through voice and gesture of his thoughts.”, as El Lissitzky, a famous Russian typographer, put it.
+This quote from Daniel Willingham forms the basis for a lot of Craig’s conjectures. I interpret it as: if your students are only paying attention to me 50% of the time, then the theoretical maximum amount of things they remember is 50% (best case scenario).
 
-## Loss of humanity through transitions
+This helps to explain a lot of the frustrations I experienced when I feel like I’ve explained a concept to a student half a dozen times and 5 seconds later they cannot recall a single thing. This relates to what I discussed earlier about the single story, in that there are probably so many other things going through the heads of the student as I’m talking. So it’s no surprise if they don’t take anything in.
 
-Each transition took away a part of humanity from written language. Handwritten books being the most humane form and the digital typefaces being the least. Overuse of Helvetica is a good example. Messages are being told in a typeface just because it’s a safe option. It’s always there. Everyone knows it but yet, nobody knows it. Stop someone on the street and ask him what Helvetica is? Ask a designer the same question. Ask him where it came from, when, why and who designed it. Most of them will fail to answer these questions. Most of them used it in their precious projects but they still don’t spot it in the street.
+## The Curse of Knowledge
 
-<figure>
-	<blockquote>
-		<p>Knowledge of the quality of a typeface is of the greatest importance for the functional, aesthetic and psychological effect.</p>
-		<footer>
-			<cite>— Josef Mueller-Brockmann</cite>
-		</footer>
-	</blockquote>
-</figure>
+![](/media/confused-student.jpeg "Students are novices, so we shouldn’t teach as though they are experts. Source: Redbrick Careers.")
 
-Typefaces don’t look handmade these days. And that’s all right. They don’t have to. Industrialism took that away from them and we’re fine with it. We’ve traded that part of humanity for a process that produces more books that are easier to read. That can’t be bad. And it isn’t.
+At university I studied a degree in Science which incorporated chemistry, physics and mathematics, although maths is where my interest lies and was what I excelled at at school. Solving linear equations? Easy. Differentiation by First Principals? Could do it in my sleep. But when you break down these processes, there are a lot of steps going on. For me, these steps are committed to my long term memory and I can recall them automatically. This frees up cognitive space to solve complex problems that involve these skills. However when there is no automaticity, trying to solve problems and remember how to apply the skills is too much for the finite working memory of students. This is the curse of knowledge (Wiemann, 2007).
 
-> Humane typography will often be comparatively rough and even uncouth; but while a certain uncouthness does not seriously matter in humane works, uncouthness has no excuse whatever in the productions of the machine.
->
-> — Eric Gill
+Relative to the students, I’m an expert in many domains of mathematics. I get maths. Yet, for all of my students (note all), they are novices. Sure, all of them come in with varying levels of domain-specific knowledge (often perceived as degrees of smartness or intelligence). Even something as simple as flipping a positive sign to negative can induce maths anxiety that makes learning impossible.
 
-We’ve come close to “perfection” in the last five centuries. The letters are crisp and without rough edges. We print our compositions with high–precision printers on a high quality, machine made paper.
+My key takeaway from this is to make sure that when I’m teaching a new concept, I break it down as much as possible. I research misconceptions so I can better anticipate where students might get confused. I’ll use minimally-different examples to carefully guide students through different scenarios, rather than assuming my novice students can handle it.
 
-![type-through-time.jpg](/media/type-through-time.jpg)
+## Education Research is Messy
 
-*Type through 5 centuries.*
+![](/media/pile-of-paper.jpeg "There’s a lot of good, bad, fad and inspirational research out there. And everyone has an opinion. Source: iStockPhoto.")
 
-We lost a part of ourselves because of this chase after perfection. We forgot about the craftsmanship along the way. And the worst part is that we don’t care. The transition to the digital age made that clear. We choose typefaces like clueless zombies. There’s no meaning in our work. Type sizes, leading, margins… It’s all just a few clicks or lines of code. The message isn’t important anymore. There’s no more “why” behind the “what”.
+I never thought it was possible, but I am in love with everything to do with education. Seldom in my life have I experienced a drive to learn more, try different things, and embrace the chaos that teaching is. My foray into educational opinion and research however was far less rosy than I imagined. There is a lot of research out there, some good, some bad, and even those definitions are subject to context. There are lots of experts, and novices, and everyone has an opinion. Whilst I am all for the diversity in opinion and methods that I’ve seen, I can understand how heated discussion around education can be.
 
-## Chasing perfection
+Throughout these 10 weeks my exploration has led me to various realms. From Hattie’s Visible Learning, Boaler and Dweck’s work on mindsets, to Ken Robinson’s orations. There seems to be a fine line between substantial and effective practice, and fad. I’ve wasted many a lesson following pedagogical rabbit holes. That isn’t to say that what I was trying to do wouldn’t have worked: it’s far more likely my implementation was at fault. However I am now far more cautious and critical about practices that I come across. Right now I’m exploring the field of cognitive science in education, and in particular the ideas surrounding Direct/Explicit Instruction, and so far this looks like a promising area. Stay tuned.
 
-Human beings aren’t perfect. Perfection is something that will always elude us. There will always be a small part of humanity in everything we do. No matter how small that part, we should make sure that it transcends the limits of the medium. We have to think about the message first. What typeface should we use and why? Does the typeface match the message and what we want to communicate with it? What will be the leading and why? Will there be more typefaces in our design? On what ground will they be combined? What makes our design unique and why? This is the part of humanity that is left in typography. It might be the last part. Are we really going to give it up?
+- - -
 
-*Originally published by [Matej Latin](http://matejlatin.co.uk/) on [Medium](https://medium.com/design-notes/humane-typography-in-the-digital-age-9bd5c16199bd?ref=webdesignernews.com#.lygo82z0x).*
+Thank you for giving up some of your time to read my 2 cents. I am very excited to continue my education journey and begin, and I am very keen to build my network of educators and teachers, so please do reach out. And to all the other Victorian teachers out there, enjoy yourself a well earned break (I know I will).
+
+Twitter: <https://twitter.com/pdnrobertson>
+
+LinkedIn: <https://www.linkedin.com/in/patrickrobertson96/>
