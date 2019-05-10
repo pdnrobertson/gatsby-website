@@ -1,7 +1,7 @@
 ---
 template: page
 title: About Me
-slug: /pages/about-me
+slug: /pages/about
 draft: true
 ---
 About Me Page
