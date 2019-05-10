@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  url: 'https://patrickrobertson.netlify.com/',
+  title: 'Patrick Robertson',
+  subtitle: 'Personal website for Patrick Robertson: passionate educator and tech enthusiast',
+  copyright: '© All rights reserved. Opinions my own.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -23,16 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Patrick Robertson',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio:
+      'Current Teach For Australia Associate teaching at a P-12 college in country Victoria, Australia.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '#',
-      vkontakte: '#'
+      email: 'patrickdn.robertson96@gmail.com',
+      twitter: 'https://twitter.com/pdnrobertson',
+      github: 'https://github.com/pdnrobertson'
     }
   }
 };
